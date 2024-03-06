@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Uploading Simulator Screenshot - iPhone 15 Pro Max - 2024-03-06 at 14.22.04.png…]()
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-06 at 14 22 04](https://github.com/Puthsihta/flutter_task-management/assets/77711961/0f509f82-1930-45a0-a3eb-eb4ca0d7dfaf)
 
 ## Getting Started
 
